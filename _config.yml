@@ -1,16 +1,16 @@
-layout_spectrum: 0.4274959643332675
-typography_spectrum: 0.2739528160964572
+layout_spectrum: 0.6280191976538315
+typography_spectrum: 0.3107472256807112
 color:
   brandColors:
-    - '#5E4C3E'
-    - '#211A14'
-    - '#7C7956'
-    - '#F9D49F'
-    - '#B2B387'
-  brandStrength: 0.442700668151057
-  lightness: 0.06031559048036095
-  saturation: 0.3708198719052137
-  rhythmicContrast: 0.8040788866860774
+    - '#1D110A'
+    - '#ECC492'
+    - '#C2793F'
+    - '#6086DA'
+    - '#A61E24'
+  brandStrength: 0.5280265178446575
+  lightness: 0.5073503391508308
+  saturation: 0.07052506311815049
+  rhythmicContrast: 0.04741489343621796
 coverPrefs:
   filter: false
 github: true
@@ -54,9 +54,9 @@ content:
     type: image
     html: >-
       <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce6304ca3deb6b53e118179035795b070c1d9fa0.jpg">
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0438fc42416f95b201b9522cf8bc6eae3eb1ec6.jpg">
     src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce6304ca3deb6b53e118179035795b070c1d9fa0.jpg
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0438fc42416f95b201b9522cf8bc6eae3eb1ec6.jpg
     metadata:
       author: []
       related: []
@@ -71,7 +71,7 @@ content:
       '@context': 'http://schema.org'
       '@type': MediaObject
       isBasedOnUrl: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/32502a8596fb6bb4e7e083d04145fc03/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F22157778_1301220773339962_6163790089991225344_n.jpg
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4c08ea1d367b344a661d4577d89af727/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2F9e0997d08f9d8a169863e8c78dae2c7f%2F5BA0F997%2Ft51.2885-15%2Fe35%2F31463281_396962607448981_885760064755859456_n.jpg
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
